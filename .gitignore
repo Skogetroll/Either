@@ -1,5 +1,6 @@
 .DS_Store
 build
+.build
 xcuserdata
 *.mode*
 *.pbxuser
@@ -8,3 +9,4 @@ xcuserdata
 *.xcscmblueprint
 
 Carthage/Build
+Packages
